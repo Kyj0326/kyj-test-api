@@ -6,6 +6,6 @@ public class Test {
 
     @GetMapping("/")
     public String hello(){
-        return "Hello";
+        return "Hellott";
     }
 }
